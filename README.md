@@ -1,7 +1,7 @@
 
 # V Movies
 
-In this website user can find information about latest Movies
+On this website user can find information about latest Movies
 . User can search for a particular movie, can add to his
 favourite list and also can see all details about
 selected movie.
