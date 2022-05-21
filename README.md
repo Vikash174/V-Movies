@@ -1,10 +1,7 @@
 
 # V Movies
 
-On this website user can find information about latest Movies
-. User can search for a particular movie, can add to his
-favourite list and also can see all details about
-selected movie.
+On this website, users can find information about the latest Movies. User can search for a particular movie, can add it to their favorite list and also can see all details about the selected movie.
 
 
 ## Build Using
